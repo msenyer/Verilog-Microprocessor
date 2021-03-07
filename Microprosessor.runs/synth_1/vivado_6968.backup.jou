@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2015.2 (64-bit)
+# SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
+# IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
+# Start of session at: Wed Mar 21 14:59:00 2018
+# Process ID: 13160
+# Log file: D:/Xilinx/IR_TransmistterV2/Microprosessor/Microprosessor.runs/synth_1/microprocessor_system.vds
+# Journal file: D:/Xilinx/IR_TransmistterV2/Microprosessor/Microprosessor.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source microprocessor_system.tcl -notrace
